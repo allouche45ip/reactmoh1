@@ -1,0 +1,10 @@
+
+ .ahamed{
+    display: grid;
+    position: relative;
+    left: 850px;
+    width: 30%;
+    height: 800px;
+    border: 2px solid chartreuse;
+  
+} 

@@ -1,0 +1,21 @@
+
+ /* .mohamed{
+    width: 15%;
+    height: 160px;
+    border: 2px solid chartreuse;
+    position: relative;
+    left: 500px;
+}   */
+
+.allouche{
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 15px;
+  
+    
+    
+}
+.allouche:hover{
+    cursor: pointer;
+    padding: 20px;
+}
